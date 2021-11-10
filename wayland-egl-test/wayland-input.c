@@ -128,6 +128,10 @@ static void keyboard_modifiers (void *data, struct wl_keyboard *keyboard, uint32
 }
 static struct wl_keyboard_listener keyboard_listener = {&keyboard_keymap, &keyboard_enter, &keyboard_leave, &keyboard_key, &keyboard_modifiers};
 
+// Loosely based on sample code which is:
+// Copyright © 2011 Benjamin Franzke
+// Licensed under the MIT License
+
 static void seat_capabilities (void *data, struct wl_seat *seat, uint32_t capabilities) {
 	printf("seat_capabilities(data:%p, seat:%p, capabilities:0x%x)\n", data, seat, capabilities);
 

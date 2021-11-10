@@ -15,7 +15,7 @@ software under the qt-egl-test directory.
 The sdl-test directory tree within this component contains some software which is
 Copyright 2021 EPAM SYSTEMS and licensed to you under the Apache 2.0 License.  The sdl-test
 directory contains its own license files, called LICENSE/NOTICE, which describe the licensing of the
-software under the sdl-game-test directory.
+software under the sdl-test directory.
 
 The sdl-game-test directory tree within this component contains some software which is
 Copyright 2021 EPAM SYSTEMS and licensed to you under the Apache 2.0 License.  The sdl-game-test
