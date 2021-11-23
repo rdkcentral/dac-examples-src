@@ -30,6 +30,7 @@ EGLWindow::EGLWindow(QWindow *parent)
 
 EGLWindow::~EGLWindow() {}
 
+// This code is based on Qt OpenGL example code which is:
 // Copyright (C) 2018 The Qt Company Ltd.
 // Licensed under the BSD-3 license.
 void EGLWindow::render(QPainter *painter) {
