@@ -1,0 +1,28 @@
+The component include material which is licensed under licenses / copyrights as
+listed below. Your use of this material within the component is also subject to the terms and
+conditions of these licenses.
+
+The essos-test directory tree within this component contains some software which is
+Copyright 2017 RDK Management, Copyright 2020 Liberty Global B.V. and licensed to you
+under the Apache 2.0 License.  The essos-test directory contains its own license files,
+called LICENSE/NOTICE, which describe the licensing of the software under the essos-test directory.
+
+The qt-egl-test directory tree within this component contains some software which is
+Copyright 2020 Damian Wrobel and licensed to you under the GPLv2 License.  The qt-egl-test
+directory contains its own license file, called COPYING, which describes the licensing of the
+software under the qt-egl-test directory.
+
+The sdl-test directory tree within this component contains some software which is
+Copyright 2021 EPAM SYSTEMS and licensed to you under the Apache 2.0 License.  The sdl-test
+directory contains its own license files, called LICENSE/NOTICE, which describe the licensing of the
+software under the sdl-test directory.
+
+The sdl-game-test directory tree within this component contains some software which is
+Copyright 2021 EPAM SYSTEMS and licensed to you under the Apache 2.0 License.  The sdl-game-test
+directory contains its own license files, called LICENSE/NOTICE, which describe the licensing of the
+software under the sdl-game-test directory.
+
+The wayland-egl-test directory tree within this component contains some software which is
+licensed to you under the Unlicense. The wayland-egl-test
+directory contains its own license file, called UNLICENSE, which describes the licensing of the
+software under the wayland-egl-test directory.
